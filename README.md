@@ -53,5 +53,5 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 - Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. It's crucial for optimizing model performance and ensuring accurate, relevant outputs in AI-driven applications.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-- Vague Prompt Example: Tell me about technology.
+- Vague Prompt Example: Tell me about cloud technology.
 - Improved Prompt: Explain the impact of cloud computing on modern businesses, particularly in terms of cost savings and scalability.
